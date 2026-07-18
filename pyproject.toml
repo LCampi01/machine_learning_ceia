@@ -1,0 +1,14 @@
+[project]
+name = "machine_learning_ceia"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.3",
+    "matplotlib>=3.11.0",
+    "seaborn>=0.13.2",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "nltk>=3.9.2"
+]

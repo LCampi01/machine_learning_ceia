@@ -2,5 +2,7 @@ uv.lock
 nltk_data
 datasets/X_test.npz
 datasets/X_train.npz
+datasets/X_train_raw.csv
+datasets/X_test_raw.csv
 datasets/y_test.csv
 datasets/y_train.csv

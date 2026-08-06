@@ -7,3 +7,4 @@ datasets/X_extra_test.csv
 datasets/y_test.csv
 datasets/y_train.csv
 __pycache__
+.venv
